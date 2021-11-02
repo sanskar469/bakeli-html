@@ -1,0 +1,146 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    /* background-color: red; */
+}
+#navbar{
+    height: 32vh;
+    background-color: #ff740e;
+}
+.color{
+    color: #2c2c2e;
+}
+.color:hover{
+    color: #b3500a;
+   
+
+}
+
+#nav-headline{
+    padding: 0;
+    font-size: 40px;
+}
+
+#about-section{
+    background-color: #2c2c2e;
+    height: 65vh;
+}
+.ab-hd1{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #ff740e;
+    line-height: 1.35em;
+    text-align: center;
+    
+}
+#para1{
+    color: #ff740e;
+    line-height: 1.35em;
+    align-items: center;
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+}
+
+#second-section{
+    background-color: #ff740e;
+    height: 75vh;
+    text-align: center;
+}
+.ab-hd2{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #2c2c2e;
+    line-height: 1.35em;
+    text-align: center;
+    
+}
+#para2{
+    color: #2c2c2e;
+    line-height: 1.35em;
+    align-items: center;
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+}
+#third-section{
+    background-color: #2c2c2e;
+    height: 95vh;
+}
+.ab-hd3{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #ff740e;
+    line-height: 1.35em;
+    text-align: center;
+    
+}
+#para3{
+    color: #ff740e;
+    line-height: 1.35em;
+    align-items: center;
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+}
+#fourth-section{
+    background-color: #ff740e;
+    height: 95vh;
+}
+.ab-hd4{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #2c2c2e;
+    line-height: 1.35em;
+    text-align: center;
+    
+}
+#para4{
+    color: #2c2c2e;
+    line-height: 1.35em;
+    align-items: center;
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+}
+#fifth-section{
+    background-color: #2c2c2e;
+    height: 55vh;
+}
+.ab-hd5{
+    margin-top: 100px;
+    font-size: 40px;
+    color: #ff740e;
+    line-height: 1.35em;
+    text-align: center;
+    
+}
+#para5{
+    color: #ff740e;
+    line-height: 1.35em;
+    align-items: center;
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+}
+
+.footer{
+    background-color: #ff740e;
+    height: 45vh;
+}
+.footer > .container{
+    padding: 55px;
+}
+.icon{
+    height: 80%;
+}
+.last-footer{
+    height: 20vh;
+    background-color: #2c2c2e;
+    
+}
+.last-footer > p{
+    color: #ff740e;
+    text-align: center;
+    padding-top: 72px;
+}
